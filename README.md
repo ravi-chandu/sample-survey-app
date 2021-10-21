@@ -1,14 +1,19 @@
 # Power Apps – Simple Survey app
 
 Here is the simple Survey app – Collects the data from app and stores in Excel sheets 
+
+
+![image](https://user-images.githubusercontent.com/92777166/138312631-98fa19d8-8e3c-47a0-8403-356f2c68bbcb.png)![image](https://user-images.githubusercontent.com/92777166/138313173-33c87e01-0bdb-440a-b359-dfa77834ccb3.png)![image](https://user-images.githubusercontent.com/92777166/138313528-eb376871-e150-4b33-bc7f-ccba94deb885.png)![image](https://user-images.githubusercontent.com/92777166/138314297-8828b1fa-f00c-4ce7-9b70-299256342a91.png)
+
  
- ![image](https://user-images.githubusercontent.com/92777166/138257484-a45a3aab-6b68-4844-8481-04355aea5bb5.png)
-![image](https://user-images.githubusercontent.com/92777166/138257512-44f76c64-7c10-46eb-bfea-56da67413047.png)
 
 
 
 We can easily record & update the data using Power Apps
 We don’t have to write the data which are collect from people and again update in excel sheet.
+
+ ![image](https://user-images.githubusercontent.com/92777166/138257484-a45a3aab-6b68-4844-8481-04355aea5bb5.png)
+![image](https://user-images.githubusercontent.com/92777166/138257512-44f76c64-7c10-46eb-bfea-56da67413047.png)
 
 ## Steps
 
